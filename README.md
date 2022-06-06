@@ -1,13 +1,8 @@
-Приложение магазина с 2 страницами: главная страница с товарами и корзина товаров.
-
-# Getting Started with Create React App
+## Приложение магазина с 2 страницами: главная страница с товарами и корзина товаров.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
-
+Available Scripts
 ### `npm start`
 
 Runs the app in the development mode.\
